@@ -1,6 +1,5 @@
 { 
   "name": "mad-burning",
-  "homepage": "https://hirwayves.github.io/MadBurning",
   "private": true,
   "version": "0.0.0",
   "type": "module",
